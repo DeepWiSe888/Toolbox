@@ -43,11 +43,33 @@ Each frame contains 820 bytes, and each field is sequentially concatenated
         plot()
         #....
     ```
-3. Run plot data program in terminal:
-    ```s
+3. Modifying configuration Items in the './config.ini'
+    1. Modify sampling rate,supports a maximum of 800Hz,the datatype is int.
+        ```
+        [radar]
+        fps  = 40
+        ```
+    2. Modify scan area,from range start to range end,the datatype is float and one decimal digit is reserved.
+        ```
+        [radar]
+        range_start = 0.2
+        range_end  = 5.0
+        ```
+    3. Modify the calculation step length,the default value is 1s and same as the sampling rate.
+        ```
+        [alg]
+        step = 40
+        ```
+    4. Modify the bin offset,the default value is 0.
+        ```
+        [alg]
+        bin_offset = 0
+        ```
+4. Run plot data program in terminal:
+    ```
     python plot_data.py
     ```
-4. Run save data program in terminal:
+5. Run save data program in terminal:
     ```
     python record_data.pys
     ```
