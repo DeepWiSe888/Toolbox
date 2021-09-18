@@ -23,57 +23,21 @@ Each frame contains 820 bytes, and each field is sequentially concatenated
 | 6    | I channal signal | float            | frame_size / 2 *4 | ≤420        |                  | frame size <=200                                   |
 | 7    | Q channal signal | float            | frame_size / 2 *4 | ≤820        |                  | the Q channal signal follows the I channal  signal |
 
-##### use python environment
+##### Use python environment
 
 1. Install dependent libraries:
     ```python
     pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
     ```
-2. Changing the serial name in the main function.
-    ```
-    def main():
-        recv = SerialCollect("COM6")
-        if not recv.state:
-            print('serial init error.')
-            exit(0)
-
-        collect = threading.Thread(target=recv.recv)
-        collect.setDaemon(True)
-        collect.start()
-        plot()
-        #....
-    ```
-3. Modifying configuration Items in the './config.ini'
-    1. Modify sampling rate,supports a maximum of 800Hz,the datatype is int.
-        ```
-        [radar]
-        fps  = 40
-        ```
-    2. Modify scan area,from range start to range end,the datatype is float and one decimal digit is reserved.
-        ```
-        [radar]
-        range_start = 0.2
-        range_end  = 5.0
-        ```
-    3. Modify the calculation step length,the default value is 1s and same as the sampling rate.
-        ```
-        [alg]
-        step = 40
-        ```
-    4. Modify the bin offset,the default value is 0.
-        ```
-        [alg]
-        bin_offset = 0
-        ```
-4. Run plot data program in terminal:
+2. Run plot data program in terminal:
     ```
     python plot_data.py
     ```
-5. Run save data program in terminal:
+3. Run save data program in terminal:
     ```
     python record_data.pys
     ```
-##### use conda virtual environment
+##### Use conda virtual environment
 1. install anaconda and update conda
     ```
     #install anaconda
@@ -140,3 +104,51 @@ Each frame contains 820 bytes, and each field is sequentially concatenated
     7. Spyder version:5.1.1
     8. PySerial version:3.5
     ```
+##### Config
+1. Changing the serial name in the main function.
+    ```
+    def main():
+        recv = SerialCollect("COM6")
+        if not recv.state:
+            print('serial init error.')
+            exit(0)
+
+        collect = threading.Thread(target=recv.recv)
+        collect.setDaemon(True)
+        collect.start()
+        plot()
+        #....
+    ```
+2. Modifying configuration Items in the './config.ini'
+    1. Modify sampling rate,supports a maximum of 800Hz,the datatype is int.
+        ```
+        [radar]
+        fps  = 40
+        ```
+    2. Modify scan area,from range start to range end,the datatype is float and one decimal digit is reserved.
+        ```
+        [radar]
+        range_start = 0.2
+        range_end  = 5.0
+        ```
+    3. Modify the calculation step length,the default value is 1s and same as the sampling rate.
+        ```
+        [alg]
+        step = 40
+        ```
+    4. Modify the bin offset,the default value is 0.
+        ```
+        [alg]
+        bin_offset = 0
+        ```
+
+##### FAQ
+
+1. **How do I know the serial port name**
+    ```
+    1. windows:"Control Panel" -> "Device Manager" -> "COM And LPT",and you will see the port name such as "COM1",then change the port name in the code.
+    2. mac:open the Terminal and run the script"ls /dev/tty.*",and you will see the port name such as "/dev/tty.usbmodem1431",then change the port name in the code.
+    3. ubuntu:open the Terminal and run the script"ls /dev/ttyUSB*",and you will see the port name such as "/dev/ttyUSB1",then change the port name in the code.
+    ```
+2. **What environment should I install**
+    I recommend using the Anaconda virtual environment, where you can easily manage Python versions and software versions.
