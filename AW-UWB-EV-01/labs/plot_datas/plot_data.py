@@ -76,7 +76,7 @@ def plot():
 
 
 def main():
-    recv = SerialCollect("COM6")
+    recv = SerialCollect("COM3")
     if not recv.state:
         print('serial init error.')
         exit(0)

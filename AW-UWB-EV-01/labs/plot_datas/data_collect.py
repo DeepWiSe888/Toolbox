@@ -16,6 +16,7 @@ class SerialCollect(object):
         except serial.SerialException:
             print("open serial error.")
             return
+        self._last_fn = 0
         self.state = True
         #pack size
         self._pack_size = 820
@@ -37,6 +38,13 @@ class SerialCollect(object):
             print("stop error.")
             return False
 
+        #get the version
+        cmd = 'AT+VERSION\r\n'
+        get_version_state = self.get_version(cmd)
+        if not get_version_state:
+            print("hardware version error,just support 1.1.")
+            return False
+
         #set fps
         cmd = 'AT+FPS {}\r\n'.format(FPS)
         set_fps_state = self.send(cmd)
@@ -44,6 +52,42 @@ class SerialCollect(object):
             print("set fps success.")
         else:
             print("set fps error.")
+            return False
+
+        #set pps
+        cmd = 'AT+PPS {}\r\n'.format(PPS)
+        set_pps_state = self.send(cmd)
+        if set_pps_state:
+            print("set pps success.")
+        else:
+            print("set pps error.")
+            return False
+
+        #set iter
+        cmd = 'AT+ITER {}\r\n'.format(ITER)
+        set_iter_state = self.send(cmd)
+        if set_iter_state:
+            print("set iter success.")
+        else:
+            print("set iter error.")
+            return False
+        
+        #set dac min
+        cmd = 'AT+DMIN {}\r\n'.format(DMIN)
+        set_dmin_state = self.send(cmd)
+        if set_dmin_state:
+            print("set dac min success.")
+        else:
+            print("set dac min error.")
+            return False
+
+        #set iter
+        cmd = 'AT+DMAX {}\r\n'.format(DMAX)
+        set_dmax_state = self.send(cmd)
+        if set_dmax_state:
+            print("set dac max success.")
+        else:
+            print("set dac max error.")
             return False
 
         #set scan area
@@ -65,6 +109,30 @@ class SerialCollect(object):
             return False
 
         return True
+
+    def get_version(self,cmd):
+        self._s.write(cmd.encode())
+        print("-->:",cmd.encode())
+        response = b''
+        start_time = time.time()
+        while True:
+            end_time = time.time()
+            tmp = self._s.read(1)
+            if not tmp:
+                print('No response received.')
+                state = False
+                break
+            response += tmp
+            if len(response) >= 15 and response.find(b'/r/n') >= 0:
+                idx = response.find(b'VERSION:')
+                print("<--:",response[idx:idx + 15])
+                state = True
+                break
+            if end_time - start_time >= 10: #read timeout 10s
+                print("read timeout")
+                state = False
+                break
+        return state
 
     def send(self,cmd):
         state = True
@@ -109,6 +177,9 @@ class SerialCollect(object):
                     pack_data = self._packs[index:index + self._pack_size]
                     #radar frame no
                     frame_no = struct.unpack('I',pack_data[4:4 + 4])[0]
+                    if frame_no - self._last_fn > 1:
+                        print("frame no error,last frame no:{},current frame no:{}".format(self._last_fn,frame_no))
+                    self._last_fn = frame_no
                     #timestamp from startup
                     time_sec = struct.unpack('q',pack_data[8:8 + 8])[0]
                     #buff size(no use)
@@ -125,6 +196,7 @@ class SerialCollect(object):
                     tmp[:,0] = i
                     tmp[:,1] = q
                     data_queue.put(tmp)
+                    # print(data_queue.qsize())
 
                     self._packs = self._packs[index + self._pack_size:]
                 else:

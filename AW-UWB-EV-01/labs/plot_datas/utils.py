@@ -43,6 +43,28 @@ fps_value = conf.get_conf('radar','fps','int')
 FPS = 40 if fps_value is None else fps_value
 print('radar fps:{}'.format(FPS))
 
+#radar,pps,int
+pps_value = conf.get_conf('radar','pps','int')
+PPS = 128 if pps_value is None else pps_value
+print('radar pps:{}'.format(PPS))
+
+#radar,iter,int
+iter_value = conf.get_conf('radar','iter','int')
+if iter_value & (iter_value - 1) != 0:
+    print("iter should be 2**n.")
+ITER = 8 if iter_value is None else iter_value
+print('radar iter:{}'.format(ITER))
+
+#radar,dmin,int
+dmin_value = conf.get_conf('radar','dmin','int')
+DMIN = 949 if dmin_value is None else dmin_value
+print('radar dac min:{}'.format(DMIN))
+
+#radar,dmax,int
+dmax_value = conf.get_conf('radar','dmax','int')
+DMAX = 1100 if dmax_value is None else dmax_value
+print('radar dac max:{}'.format(DMAX))
+
 #radar,range_start,float,The minimum distance of scan
 range_start_value = conf.get_conf('radar','range_start','float')
 RANGE_SATRT = 0.2 if range_start_value is None else range_start_value
@@ -54,8 +76,8 @@ RANGE_END= 5.0 if range_end_value is None or range_end_value > 5.0 else range_en
 print('radar range end:{}'.format(RANGE_END))
 
 #alg,frames,int,calculate step,default value is 1s(fps)
-step_value = conf.get_conf('alg','step','int')
-STEP = FPS if step_value is None else step_value
+# step_value = conf.get_conf('alg','step','int')
+STEP = FPS
 print('plot calculate step:{}'.format(STEP))
 
 #alg,bin_offset,int,0-95
