@@ -8,9 +8,9 @@ The documentation is organized as followed:
 ## Table of contents
 - [RF sensor  introduction](https://deepwise888.github.io/Toolbox/intro/) 
 
-- [Development boards]()
+- [Development boards](https://deepwise888.github.io/Toolbox/dev_borad/)
 
-- [Exploration tools]()
+- [Exploration tools](https://deepwise888.github.io/Toolbox/exp_tools/)
 
 - [Deep learning interface]()
 
