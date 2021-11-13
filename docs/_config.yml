@@ -1,6 +1,7 @@
-title: Your project name
+title: Exploration Tool docs
 lang: en
-description: a catchy description for your project
+description: Welcome to the AIWiSE Exploration Tool documentation!
+
 
 remote_theme: rundocs/jekyll-rtd-theme
 
