@@ -39,7 +39,7 @@ class SerialCollect(object):
             return False
 
         #get the version
-        cmd = 'AT+VERSION\r\n'
+        cmd = 'AT+VER\r\n'
         get_version_state = self.get_version(cmd)
         if not get_version_state:
             print("hardware version error,just support 1.1.")
@@ -123,7 +123,7 @@ class SerialCollect(object):
                 state = False
                 break
             response += tmp
-            if len(response) >= 15 and response.find(b'/r/n') >= 0:
+            if len(response) >= 13 and response.find(b'\r\n') >= 0:
                 idx = response.find(b'VERSION:')
                 print("<--:",response[idx:idx + 15])
                 state = True

@@ -1,18 +1,18 @@
 ##### Command
 
-Command format:AT+command value,vlaue/r/n，command and values are directly whitespace.
+Command format:AT+command value,vlaue\r\n，command and values are directly whitespace.
 
-| AT         | send                | return:OK       | return:ERROR     | description              |
-| ---------- | ------------------- | --------------- | ---------------- | ------------------------ |
-| AT+DIST    | AT+DIST 0.2,5.0/r/n | DIST:OK/r/n     | DIST:ERROR*/r/n  | Set the radar scan range |
-| AT+FPS     | AT+FPS 40/r/n       | FPS:OK/r/n      | FPS:ERROR*/r/n   | Set the radar fps        |
-| AT+PPS     | AT+PPS 128/r/n      | PPS:OK/r/n      | PPS:ERROR*/r/n   | Set pulses per step      |
-| AT+ITER    | AT+ITER 16/r/n      | ITER:OK/r/n     | ITER:ERROR*/r/n  | Set iteration            |
-| AT+DMIN    | AT+DMIN 949/r/n     | DMIN:OK/r/n     | DMIN:ERROR*/r/n  | Set dac min              |
-| AT+DMAX    | AT+DMAX 1100/r/n    | DMAX:OK/r/n     | DMAX:ERROR*/r/n  | Set dac max              |
-| AT+START   | AT+START/r/n        | START:OK/r/n    | START:ERROR*/r/n | Start receiving data     |
-| AT+STOP    | AT+STOP/r/n         | STOP:OK/r/n     | STOP:ERROR*/r/n  | Stop receiving data      |
-| AT+VERSION | AT+VERSION/r/n      | VERSION:1.1/r/n |                  | get the verison          |
+| AT       | send                | return:OK       | return:ERROR     | description              |
+| -------- | ------------------- | --------------- | ---------------- | ------------------------ |
+| AT+DIST  | AT+DIST 0.2,5.0\r\n | DIST:OK\r\n     | DIST:ERROR*\r\n  | Set the radar scan range |
+| AT+FPS   | AT+FPS 40\r\n       | FPS:OK\r\n      | FPS:ERROR*\r\n   | Set the radar fps        |
+| AT+PPS   | AT+PPS 128\r\n      | PPS:OK\r\n      | PPS:ERROR*\r\n   | Set pulses per step      |
+| AT+ITER  | AT+ITER 16\r\n      | ITER:OK\r\n     | ITER:ERROR*\r\n  | Set iteration            |
+| AT+DMIN  | AT+DMIN 949\r\n     | DMIN:OK\r\n     | DMIN:ERROR*\r\n  | Set dac min              |
+| AT+DMAX  | AT+DMAX 1100\r\n    | DMAX:OK\r\n     | DMAX:ERROR*\r\n  | Set dac max              |
+| AT+START | AT+START\r\n        | START:OK\r\n    | START:ERROR*\r\n | Start receiving data     |
+| AT+STOP  | AT+STOP\r\n         | STOP:OK\r\n     | STOP:ERROR*\r\n  | Stop receiving data      |
+| AT+VER   | AT+VER\r\n          | VERSION:1.1\r\n |                  | get the verison          |
 
 ##### Packet Parsing
 
