@@ -1,3 +1,7 @@
+##### HardWare And SoftWare
+
+You can get the different hardware  firmware in the https://github.com/DeepWiSe888/Firmware ,and you can find the correspond to the software version in the https://github.com/DeepWiSe888/Toolbox/releases.
+
 ##### Command
 
 Command format:AT+command value,vlaue\r\n，command and values are directly whitespace.
@@ -195,3 +199,4 @@ Each frame contains 820 bytes, and each field is sequentially concatenated
     $$ T_{frame}  = \cfrac{rx\_mframes*3+1}{F_{trx\_backend\_clk}} + \cfrac{(PPS*CPP+1)*(DAC_{max} - DAC_{min} +1)*trx\_iterations}{F_{refclk}}$$
 
     
+
