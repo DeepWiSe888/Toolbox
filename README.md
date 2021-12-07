@@ -13,5 +13,11 @@ The toolbox for AIWise develpment boards.
 
 firmware repository:https://github.com/DeepWiSe888/Firmware
 
+firmware Baidu cloud download:
+
+​	Link:https://pan.baidu.com/s/1bEQH0SGg9y3sQ53Rlf-u5w 
+
+​	Verification code：sk3j
+
 software repository:https://github.com/DeepWiSe888/Toolbox/releases
 

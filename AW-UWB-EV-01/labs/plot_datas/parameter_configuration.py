@@ -74,9 +74,9 @@ def main(pps,iter,fps):
 
 
 if __name__ == '__main__':
-    pps = 300
+    pps = 128
     iter = 16
-    fps = 201
+    fps = 49
 
     main(pps,iter,fps)
 

@@ -20,6 +20,8 @@ function demo_1(s)
     fps = 40; %fps
     sec = 6;  %seconds to plot
     step = 1; %plot data step
+    
+    last_fn = 0;
 
     datas = [];
     figure(1)
@@ -27,6 +29,12 @@ function demo_1(s)
     while 1
         data = parse_pack(s);
         datas = [datas;data.i + 1i*data.q];
+        
+        if data.frame_no - last_fn > 1
+            fprintf('frame no error,last frame no:%d,frame no:%d.',last_fn,data.frame_no);
+        end
+        last_fn = data.frame_no;
+        
         if length(datas) >= sec * fps
             x = datas(end - sec * fps + 1:end,:);
             
@@ -109,7 +117,7 @@ function data = parse_pack(s)
     data.q = q_org(1:frame_size / 2);
     
     X = sprintf('frame no:%d,timestamp:%d,buff size:%d,frame size:%d.',data.frame_no,data.timestamp,data.buff_size,data.frame_size);
-    disp(X);
+    %disp(X);
 end
 
 function status = set_dev(s)
