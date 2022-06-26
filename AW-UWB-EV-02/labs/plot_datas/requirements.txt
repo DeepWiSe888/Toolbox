@@ -1,0 +1,6 @@
+numpy
+scipy
+pyqtgraph
+PyOpenGL
+spyder
+PyQt5
