@@ -114,3 +114,7 @@ Each frame contains 1124 bytes, and each field is sequentially concatenated
 2. **About Radar init fail**
 
     if radar init fail，you can restar the tools.
+
+3. **About the frame number of first frame**
+
+   the first frame number is abnormal due to data loss.
