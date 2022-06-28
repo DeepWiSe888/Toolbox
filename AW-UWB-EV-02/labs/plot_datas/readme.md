@@ -6,8 +6,8 @@ Each frame contains 1124 bytes, and each field is sequentially concatenated
 | ---- | ---------------- | --------- | -------------- | ----------- | ----- | ------------------------- |
 | 1    | sec              | int       | 4              | 4           |       | integral oart of second   |
 | 2    | usec             | int       | 4              | 4           |       | fractional part of second |
-| 3    | tx no            | int       | 4              | 4           |       | tx antenna no default 0   |
-| 4    | rx no            | int       | 4              | 4           |       | rx antenna no default 0   |
+| 3    | tx no            | int       | 4              | 4           |       | tx antenna no default 1   |
+| 4    | rx no            | int       | 4              | 4           |       | rx antenna no default 1   |
 | 5    | frame no         | int       | 4              | 4           |       | frame no                  |
 | 6    | I channel signal | float     | 4              | 138 * 4     |       | i data                    |
 | 7    | Q channel signal | float     | 4              | 138 * 4     |       | q data                    |

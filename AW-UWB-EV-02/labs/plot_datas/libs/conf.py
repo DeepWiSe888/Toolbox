@@ -63,8 +63,8 @@ STEP = FPS
 #alg,bin_offset,int,0-138
 OFFSET = 0 
 
-#alg,max_bin=96(5m),int,1-96
-MAX_BIN = 138 
+#alg,max_bin=138(7m),int,0-138
+MAX_BIN = 130 
 
 #alg,frames,int,calculate window 6s
 FRAMES = 6 * FPS 

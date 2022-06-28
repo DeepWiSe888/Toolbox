@@ -14,10 +14,10 @@ def read_data(path):
     if os.path.isdir(path):
         fs = os.listdir(path)
         for f in fs:
-            if f.endswith('.txt'):
+            if f.endswith('.dat'):
                 files.append(path + f)
     else:
-        if path.endswith('.txt'):
+        if path.endswith('.dat'):
             files.append(path)
 
     framelist = []
@@ -106,12 +106,12 @@ def main():
     ax6.setTicks([[(v, '{}'.format(int((v - NFFT / 2) * FPS / NFFT)) ) for v in freq_ticks]])
 
 
-    path = "./datas/222/"
+    path = "./datas/"
     range_data = read_data(path)
     (frame_cnt,bin_cnt) = range_data.shape
 
     for i in range(0,frame_cnt - FRAMES,STEP):
-        x = range_data[i:i+FRAMES,:]
+        x = range_data[i:i+FRAMES,OFFSET:MAX_BIN]
 
         #remove the background
         iq_data = x - np.mean(x,0)
