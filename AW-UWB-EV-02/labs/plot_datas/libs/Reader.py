@@ -9,13 +9,6 @@ class RawDataReader():
         self.buffer_size = 1136
         self._open(self.path)
 
-    # def get_next_frame(self):
-    #     pack = self.raw_fid.read(self.buffer_size)
-    #     if not pack or len(pack) < self.buffer_size:
-    #         self._close()
-    #         return None
-    #     pack_dict = parse_pack_from_file(pack)
-    #     return pack_dict
     def get_next_frame(self):
         while True:
             if len(self.pack_buffer)  < self.buffer_size * 2:
@@ -31,7 +24,7 @@ class RawDataReader():
                 continue
             else:
                 pack = self.pack_buffer[start_index:end_index]
-                pack_dict = parse_pack_from_stream(pack)
+                pack_dict = parse_pack(pack)
                 self.pack_buffer = self.pack_buffer[end_index:]
                 break
         return pack_dict
@@ -50,10 +43,10 @@ if __name__ == "__main__":
     if os.path.isdir(path):
         fs = os.listdir(path)
         for f in fs:
-            if f.endswith('.txt'):
+            if f.endswith('.dat'):
                 files.append(path + f)
     else:
-        if path.endswith('.txt'):
+        if path.endswith('.dat'):
             files.append(path)
 
     framelist = []

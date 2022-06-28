@@ -32,10 +32,7 @@ def read_data(path):
     framelist = np.array(framelist)
     # Downsampling of data
     if FPS < RAW_FPS:
-        total_frame = len(framelist)
-        spacing = round(RAW_FPS / FPS)
-        index = np.arange(0,total_frame,spacing)
-        framelist = framelist[index]
+        framelist = downsampling(framelist)
     return framelist
 
 def main():

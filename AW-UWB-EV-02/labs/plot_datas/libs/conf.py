@@ -67,7 +67,8 @@ OFFSET = 0
 MAX_BIN = 130 
 
 #alg,frames,int,calculate window 6s
-FRAMES = 6 * FPS 
+SEC = 6
+FRAMES = SEC * FPS 
 NFFT = FRAMES
 
 #default
