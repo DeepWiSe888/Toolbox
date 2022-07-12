@@ -6,7 +6,10 @@
 | 2    | FPS              | char       | Average last 1 frame FPS  |
 | 3    | Pcl_size         | float      | Point cloud size          |
 | 4    | endOfFrame       |            | The end of this Frame     |
-
+<div align=center>
+<img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/frameStructure.jpg" width="80" height="320"/>  
+</div>
+<center>Figure 1. Frame Structure</center>
 
 ##### Point Target Structure 
 
@@ -20,6 +23,11 @@ For each point, the following data is provided:
 | 3    | z_m              | float      | z position (in meters)   |
 | 4    | intensity        | uint16_t   | The intensity of the point in the point cloud   |
 | 5    | id               | uint8_t    |  The target ID number - unique for each target  |
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/pointStructure.jpg" width="270" height="220"/>  
+</div>
+<center>Figure 2. Point Target Structure</center>
 
 ##### Use python environment
 
