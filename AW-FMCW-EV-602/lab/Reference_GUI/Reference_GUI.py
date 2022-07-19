@@ -37,10 +37,7 @@ def main(args):
                 trk_data = utils.handle_pcl_or_trk(line, 't_id', trk_data)[0]
                 continue
 
-            if r'VAYYAR_FALLING' in line:
-                falling['line'] = line
-                falling['enabled'] = True
-                continue
+
 
             if r'endOfFrame' in line:
                 utils.scatter(ax3d, "sc_pcl", pcl_data)
