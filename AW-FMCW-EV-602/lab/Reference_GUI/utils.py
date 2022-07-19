@@ -68,8 +68,10 @@ def scatter(ax, scatter_name, data):
     size = 50 if scatter_name == "sc_pcl" else 100
     if ax["dim"] == '3d':
         ax[scatter_name] = ax["subplot"].scatter(data[:, 1], data[:, 2], data[:, 3], c=clr, s=size)
+        
     else:
         ax[scatter_name] = ax["subplot"].scatter(data[:, 1], data[:, 2], c=clr, s=size)
+        print('1')
 
 
 

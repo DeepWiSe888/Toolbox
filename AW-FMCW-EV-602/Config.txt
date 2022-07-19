@@ -1,0 +1,13 @@
+
+# Main UI 
+add_compile_definitions(V_ENABLE_GUI=1)			
+
+
+# Sensor Config
+add_compile_definitions(ARENA="-1, 1, 0.2, 2.7, 0.1, 2")	# Sets monitoring tracking region "Xmin, Xmax, Ymin, Ymax, Zmin, Zmax"
+add_compile_definitions(SENSOR_HEIGHT=1.5)			        # Sets sensor height
+add_compile_definitions(MOUNTING_PLAIN="Wall")			    # Sets mounting position: "Wall"/"Ceiling"
+
+# Only relevant if V_ENABLE_ONLINE = 0 (Playback)
+add_compile_definitions(LOG_PATH="..\\")# Log Path of the playback.
+
