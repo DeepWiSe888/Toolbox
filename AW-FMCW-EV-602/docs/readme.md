@@ -8,7 +8,6 @@
 | 4    | endOfFrame       |            | The end of this Frame     |
 
 <img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/frameStructure.jpg" width="80" height="320"/>  
->
 
 ##### Point Target Structure 
 
@@ -24,7 +23,6 @@ For each point, the following data is provided:
 | 5    | id               | uint8_t    | The target ID number - unique for each target  |
 
 <img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/pointStructure.jpg" width="270" height="220"/>  
-
 
 ##### Use python environment
 
@@ -43,7 +41,10 @@ For each point, the following data is provided:
     ```shell
     python plot_data.py
     ```
-
+5. Run 'get_data.py' to stored piont cloud.
+    ```shell
+    python get_data.py
+    ```
 ##### FAQ
 
 1. **What environment should I install**  

@@ -9,5 +9,5 @@ add_compile_definitions(SENSOR_HEIGHT=1.5)			        # Sets sensor height
 add_compile_definitions(MOUNTING_PLAIN="Wall")			    # Sets mounting position: "Wall"/"Ceiling"
 
 # Only relevant if V_ENABLE_ONLINE = 0 (Playback)
-add_compile_definitions(LOG_PATH="..\\")# Log Path of the playback.
+add_compile_definitions(LOG_PATH="")# Log Path of the playback.
 

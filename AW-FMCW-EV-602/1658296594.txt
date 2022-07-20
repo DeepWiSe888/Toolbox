@@ -1,0 +1,332 @@
+Frame : 1038133 
+
+FPS=10.21 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=14573
+
+pcl#=1 t_id=1 x=-0.3 y=+0.3 z=+1.3
+
+pcl_intensity#=18921
+
+pcl#=2 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=22456
+
+pcl#=3 t_id=1 x=-0.6 y=+0.0 z=+1.2
+
+pcl_intensity#=18571
+
+pcl#=4 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=27239
+
+pcl#=5 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=33095
+
+pcl#=6 t_id=1 x=-0.7 y=+0.5 z=+1.2
+
+pcl_intensity#=14516
+
+pcl#=7 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=22922
+
+pcl#=8 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=25129
+
+pcl#=9 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=14302
+
+pcl#=10 t_id=1 x=-0.6 y=+0.2 z=+1.3
+
+pcl_intensity#=14727
+
+pcl#=11 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=14849
+
+pcl#=12 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=13470
+
+pcl#=13 t_id=1 x=-0.4 y=+0.0 z=+1.3
+
+pcl_intensity#=15819
+
+pcl#=14 t_id=1 x=-0.6 y=+0.2 z=+1.2
+
+pcl_intensity#=15420
+
+endOfFrame
+
+
+Frame : 1038134 
+
+FPS=10.00 
+
+Pcl_size: 20 
+
+pcl#=0 t_id=1 x=-0.6 y=+0.0 z=+1.2
+
+pcl_intensity#=7255
+
+pcl#=1 t_id=1 x=-0.4 y=+0.0 z=+1.3
+
+pcl_intensity#=5661
+
+pcl#=2 t_id=1 x=-0.6 y=+0.1 z=+1.2
+
+pcl_intensity#=8586
+
+pcl#=3 t_id=1 x=-0.4 y=+0.1 z=+1.3
+
+pcl_intensity#=6794
+
+pcl#=4 t_id=1 x=-0.7 y=+0.1 z=+1.3
+
+pcl_intensity#=4830
+
+pcl#=5 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=8320
+
+pcl#=6 t_id=1 x=-0.3 y=+0.2 z=+1.3
+
+pcl_intensity#=5901
+
+pcl#=7 t_id=1 x=-0.6 y=+0.2 z=+1.3
+
+pcl_intensity#=5323
+
+pcl#=8 t_id=1 x=-0.4 y=+0.2 z=+1.4
+
+pcl_intensity#=4928
+
+pcl#=9 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=4612
+
+pcl#=10 t_id=1 x=-0.3 y=+0.3 z=+1.3
+
+pcl_intensity#=4435
+
+pcl#=11 t_id=1 x=-0.5 y=+0.5 z=+1.3
+
+pcl_intensity#=5823
+
+pcl#=12 t_id=1 x=-0.5 y=+0.5 z=+1.3
+
+pcl_intensity#=4576
+
+pcl#=13 t_id=1 x=-0.3 y=+0.3 z=+1.3
+
+pcl_intensity#=5671
+
+pcl#=14 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=6647
+
+pcl#=15 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=8770
+
+pcl#=16 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=7920
+
+pcl#=17 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=8418
+
+pcl#=18 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=10326
+
+pcl#=19 t_id=1 x=-0.7 y=+0.5 z=+1.2
+
+pcl_intensity#=4604
+
+endOfFrame
+
+
+Frame : 1038135 
+
+FPS=10.06 
+
+Pcl_size: 17 
+
+pcl#=0 t_id=1 x=-0.6 y=+0.0 z=+1.2
+
+pcl_intensity#=12919
+
+pcl#=1 t_id=1 x=-0.6 y=+0.1 z=+1.2
+
+pcl_intensity#=14905
+
+pcl#=2 t_id=1 x=-0.4 y=+0.1 z=+1.3
+
+pcl_intensity#=11615
+
+pcl#=3 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=15724
+
+pcl#=4 t_id=1 x=-0.3 y=+0.2 z=+1.3
+
+pcl_intensity#=12606
+
+pcl#=5 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=11691
+
+pcl#=6 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=10767
+
+pcl#=7 t_id=1 x=-0.3 y=+0.3 z=+1.3
+
+pcl_intensity#=14247
+
+pcl#=8 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=17121
+
+pcl#=9 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=13341
+
+pcl#=10 t_id=1 x=-0.6 y=+0.4 z=+1.3
+
+pcl_intensity#=11478
+
+pcl#=11 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=21227
+
+pcl#=12 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=26796
+
+pcl#=13 t_id=1 x=-0.7 y=+0.5 z=+1.2
+
+pcl_intensity#=11733
+
+pcl#=14 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=16454
+
+pcl#=15 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=18875
+
+pcl#=16 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=12489
+
+endOfFrame
+
+
+Frame : 1038136 
+
+FPS=10.11 
+
+Pcl_size: 16 
+
+pcl#=0 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=14954
+
+pcl#=1 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=14266
+
+pcl#=2 t_id=1 x=-0.3 y=+0.3 z=+1.3
+
+pcl_intensity#=19586
+
+pcl#=3 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=22469
+
+pcl#=4 t_id=1 x=-0.4 y=+0.3 z=+1.4
+
+pcl_intensity#=14807
+
+pcl#=5 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=18139
+
+pcl#=6 t_id=1 x=-0.6 y=+0.4 z=+1.3
+
+pcl_intensity#=15363
+
+pcl#=7 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=26795
+
+pcl#=8 t_id=1 x=-0.5 y=+0.3 z=+1.2
+
+pcl_intensity#=32918
+
+pcl#=9 t_id=1 x=-0.7 y=+0.5 z=+1.2
+
+pcl_intensity#=14891
+
+pcl#=10 t_id=1 x=-0.4 y=+0.2 z=+1.3
+
+pcl_intensity#=18602
+
+pcl#=11 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=21328
+
+pcl#=12 t_id=1 x=-0.4 y=+0.2 z=+1.4
+
+pcl_intensity#=13639
+
+pcl#=13 t_id=1 x=-0.6 y=+0.3 z=+1.3
+
+pcl_intensity#=18587
+
+pcl#=14 t_id=1 x=-0.4 y=+0.1 z=+1.3
+
+pcl_intensity#=15547
+
+pcl#=15 t_id=1 x=-0.6 y=+0.1 z=+1.2
+
+pcl_intensity#=20687
+
+endOfFrame
+
+
+Frame : 1038137 
+
+FPS=9.86 
+
+Pcl_size: 17 
+
+pcl#=0 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=14124
+
+pcl#=1 t_id=1 x=-0.5 y=+0.4 z=+1.2
+
+pcl_intensity#=14810
+
+pcl#=2 t_id=1 x=-0.3 y=+0.3 z=+1.3
+
+pcl_intensity#=23639
+
+pcl#=3 t_id=1 x=-0.5 y=+0.4 z=+1.3
+
+pcl_intensity#=29262
+
+pcl#=4 t_id=1 x=-0.7 y=+0.5 z=+1.2
+
