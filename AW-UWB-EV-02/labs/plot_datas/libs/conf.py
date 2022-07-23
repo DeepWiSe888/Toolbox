@@ -49,7 +49,7 @@ target_speed_cnt = 15
 RAW_FPS = 2042
 
 # The fps after sampling, FPS < RAW_FPS
-FPS = 100
+FPS = 40
 
 # radar,range_start,float,The minimum distance of scan
 RANGE_SATRT = 0.2
@@ -67,7 +67,7 @@ OFFSET = 0
 MAX_BIN = 130 
 
 #alg,frames,int,calculate window 6s
-SEC = 6
+SEC = 20
 FRAMES = SEC * FPS 
 NFFT = FRAMES
 
