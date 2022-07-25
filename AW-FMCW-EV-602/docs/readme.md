@@ -8,7 +8,7 @@
 | 4    | Pcl_size         | float      | Point cloud size          |
 | 5    | endOfFrame       |            | The end of this Frame     |
 
-<img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/frameStructure.jpg" width="80" height="320"/>  
+<img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/frameStructure.jpg" width="282" height="211"/>  
 
 ##### Point Target Structure 
 
