@@ -30,7 +30,7 @@ def parse_pack(pack):
     # usec
     usec_pack_tmp = pack[cursor:cursor + 4]
     usec = list(struct.unpack('i',usec_pack_tmp))[0]
-    usec = usec / 10000
+    usec = usec / 1000000
     cursor = cursor + 4
 
     # tx

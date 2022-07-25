@@ -79,7 +79,6 @@ def main():
     freq_ticks = [i for i in range(NFFT + 1) if i % FPS == 0]
     ax6.setTicks([[(v, '{}'.format(int((v - NFFT / 2) * FPS / NFFT)) ) for v in freq_ticks]])
     
-
     s = SerialCollect(port='COM3')
     recv_thd = threading.Thread(target=s.recv_data)
     recv_thd.setDaemon(True)
