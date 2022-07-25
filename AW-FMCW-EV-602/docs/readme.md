@@ -3,9 +3,10 @@
 | NO   | field            | data type  | description               |
 | ---- | ---------------- | ---------- | ------------------------- |
 | 1    | Frame            | uint32_t   | Frame id                  |
-| 2    | FPS              | char       | Average last 1 frame FPS  |
-| 3    | Pcl_size         | float      | Point cloud size          |
-| 4    | endOfFrame       |            | The end of this Frame     |
+| 2    | TimeStamp        | char       | Time stamp  |
+| 3    | FPS              | char       | Average last 1 frame FPS  |
+| 4    | Pcl_size         | float      | Point cloud size          |
+| 5    | endOfFrame       |            | The end of this Frame     |
 
 <img src="https://raw.githubusercontent.com/DeepWiSe888/Toolbox/master/AW-FMCW-EV-602/docs/frameStructure.jpg" width="80" height="320"/>  
 

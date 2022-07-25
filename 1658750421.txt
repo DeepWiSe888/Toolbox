@@ -1,0 +1,2081 @@
+Frame : 56853 
+TimeStamp:1658750421130
+FPS=10.13 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56854 
+TimeStamp:1658750425619
+FPS=10.05 
+
+Pcl_size: 13 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=8494
+
+pcl#=1 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=11665
+
+pcl#=2 t_id=2 x=+0.0 y=+0.0 z=+1.0
+
+pcl_intensity#=8256
+
+pcl#=3 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=7814
+
+pcl#=4 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=13496
+
+pcl#=5 t_id=2 x=+0.1 y=+0.1 z=+1.1
+
+pcl_intensity#=8652
+
+pcl#=6 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=11793
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=18690
+
+pcl#=8 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=11984
+
+pcl#=9 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intensity#=7796
+
+pcl#=10 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=11757
+
+pcl#=11 t_id=2 x=+0.2 y=+0.5 z=+0.7
+
+pcl_intensity#=7567
+
+pcl#=12 t_id=2 x=+0.2 y=+0.4 z=+0.9
+
+pcl_intensity#=9743
+
+endOfFrame
+
+
+Frame : 56855 
+TimeStamp:1658750426202
+FPS=10.02 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=0 x=+0.5 y=+2.5 z=+1.8
+
+pcl_intensity#=11093
+
+pcl#=1 t_id=0 x=+0.5 y=+2.3 z=+1.8
+
+pcl_intensity#=12111
+
+pcl#=2 t_id=0 x=+0.7 y=+2.4 z=+1.6
+
+pcl_intensity#=9245
+
+pcl#=3 t_id=0 x=+0.7 y=+2.2 z=+1.6
+
+pcl_intensity#=11753
+
+pcl#=4 t_id=0 x=+0.6 y=+2.0 z=+1.6
+
+pcl_intensity#=8120
+
+pcl#=5 t_id=0 x=+0.8 y=+2.2 z=+1.5
+
+pcl_intensity#=8018
+
+pcl#=6 t_id=0 x=+0.6 y=+2.4 z=+1.9
+
+pcl_intensity#=11069
+
+pcl#=7 t_id=0 x=+0.6 y=+2.2 z=+1.9
+
+pcl_intensity#=11434
+
+pcl#=8 t_id=0 x=+0.8 y=+2.4 z=+1.7
+
+pcl_intensity#=15964
+
+pcl#=9 t_id=0 x=+0.8 y=+2.2 z=+1.7
+
+pcl_intensity#=17640
+
+pcl#=10 t_id=0 x=+1.0 y=+2.4 z=+1.6
+
+pcl_intensity#=9681
+
+pcl#=11 t_id=0 x=+0.9 y=+2.2 z=+1.6
+
+pcl_intensity#=10346
+
+pcl#=12 t_id=0 x=+1.1 y=+2.3 z=+1.9
+
+pcl_intensity#=10338
+
+pcl#=13 t_id=0 x=+1.0 y=+2.1 z=+1.9
+
+pcl_intensity#=13956
+
+pcl#=14 t_id=0 x=+0.9 y=+1.9 z=+1.8
+
+pcl_intensity#=8960
+
+endOfFrame
+
+
+Frame : 56856 
+TimeStamp:1658750426872
+FPS=10.06 
+
+Pcl_size: 14 
+
+pcl#=0 t_id=0 x=+0.6 y=+2.4 z=+2.1
+
+pcl_intensity#=12643
+
+pcl#=1 t_id=0 x=+0.6 y=+2.2 z=+2.1
+
+pcl_intensity#=13245
+
+pcl#=2 t_id=0 x=+0.8 y=+2.2 z=+1.9
+
+pcl_intensity#=13780
+
+pcl#=3 t_id=0 x=+0.7 y=+1.9 z=+1.8
+
+pcl_intensity#=12565
+
+pcl#=4 t_id=0 x=+1.0 y=+2.4 z=+1.8
+
+pcl_intensity#=11318
+
+pcl#=5 t_id=0 x=+0.8 y=+2.2 z=+1.7
+
+pcl_intensity#=12679
+
+pcl#=6 t_id=0 x=+0.8 y=+2.4 z=+1.7
+
+pcl_intensity#=13867
+
+pcl#=7 t_id=0 x=+0.6 y=+2.2 z=+1.9
+
+pcl_intensity#=15563
+
+pcl#=8 t_id=0 x=+0.6 y=+2.4 z=+1.9
+
+pcl_intensity#=15579
+
+pcl#=9 t_id=0 x=+0.4 y=+2.0 z=+1.9
+
+pcl_intensity#=12505
+
+pcl#=10 t_id=0 x=+0.5 y=+2.2 z=+2.0
+
+pcl_intensity#=17745
+
+pcl#=11 t_id=0 x=+0.5 y=+2.4 z=+2.0
+
+pcl_intensity#=17743
+
+pcl#=12 t_id=0 x=+0.9 y=+2.1 z=+1.8
+
+pcl_intensity#=14736
+
+pcl#=13 t_id=0 x=+0.8 y=+1.9 z=+1.8
+
+pcl_intensity#=12488
+
+endOfFrame
+
+
+Frame : 56857 
+TimeStamp:1658750427501
+FPS=10.13 
+
+Pcl_size: 18 
+
+pcl#=0 t_id=2 x=+0.2 y=+0.1 z=+0.8
+
+pcl_intensity#=14378
+
+pcl#=1 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=21838
+
+pcl#=2 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=16451
+
+pcl#=3 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=14660
+
+pcl#=4 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intensity#=14470
+
+pcl#=5 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=16301
+
+pcl#=6 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=31576
+
+pcl#=7 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=23679
+
+pcl#=8 t_id=2 x=+0.1 y=+0.4 z=+0.9
+
+pcl_intensity#=21219
+
+pcl#=9 t_id=2 x=+0.1 y=+0.5 z=+0.7
+
+pcl_intensity#=17059
+
+pcl#=10 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=21166
+
+pcl#=11 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=18656
+
+pcl#=12 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=20866
+
+pcl#=13 t_id=2 x=+0.0 y=+0.5 z=+0.7
+
+pcl_intensity#=17433
+
+pcl#=14 t_id=2 x=+0.0 y=+0.0 z=+1.0
+
+pcl_intensity#=17406
+
+pcl#=15 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=32743
+
+pcl#=16 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=23632
+
+pcl#=17 t_id=2 x=-0.0 y=+0.2 z=+0.8
+
+pcl_intensity#=14733
+
+endOfFrame
+
+
+Frame : 56858 
+TimeStamp:1658750428138
+FPS=9.98 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.2 z=+0.8
+
+pcl_intensity#=10919
+
+pcl#=1 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=15843
+
+pcl#=2 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=19945
+
+pcl#=3 t_id=2 x=+0.0 y=+0.5 z=+0.7
+
+pcl_intensity#=12078
+
+pcl#=4 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=14515
+
+pcl#=5 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=15245
+
+pcl#=6 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=19465
+
+pcl#=7 t_id=2 x=+0.0 y=+0.2 z=+1.1
+
+pcl_intensity#=10708
+
+pcl#=8 t_id=2 x=+0.1 y=+0.5 z=+0.7
+
+pcl_intensity#=10466
+
+pcl#=9 t_id=2 x=+0.1 y=+0.4 z=+0.9
+
+pcl_intensity#=14108
+
+pcl#=10 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=16867
+
+pcl#=11 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=20156
+
+pcl#=12 t_id=2 x=+0.1 y=+0.4 z=+0.9
+
+pcl_intensity#=10207
+
+pcl#=13 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=11314
+
+pcl#=14 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=14081
+
+endOfFrame
+
+
+Frame : 56859 
+TimeStamp:1658750428721
+FPS=9.99 
+
+Pcl_size: 16 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=16576
+
+pcl#=1 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intensity#=13778
+
+pcl#=2 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=17623
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=32790
+
+pcl#=4 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=24875
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=14474
+
+pcl#=6 t_id=2 x=+0.1 y=+0.1 z=+1.1
+
+pcl_intensity#=15703
+
+pcl#=7 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_inte
+Frame : 56904 
+TimeStamp:1658750429001
+FPS=10.20 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56905 
+TimeStamp:1658750429064
+FPS=9.93 
+
+Pcl_size: 22 
+
+pcl#=0 t_id=0 x=+0.9 y=+2.2 z=+1.6
+
+pcl_intensity#=20393
+
+pcl#=1 t_id=0 x=+1.0 y=+2.4 z=+1.6
+
+pcl_intensity#=20670
+
+pcl#=2 t_id=0 x=+0.8 y=+2.2 z=+1.7
+
+pcl_intensity#=28628
+
+pcl#=3 t_id=0 x=+0.8 y=+2.4 z=+1.7
+
+pcl_intensity#=25598
+
+pcl#=4 t_id=0 x=+0.7 y=+2.2 z=+1.8
+
+pcl_intensity#=29033
+
+pcl#=5 t_id=0 x=+0.7 y=+2.4 z=+1.8
+
+pcl_intensity#=25407
+
+pcl#=6 t_id=0 x=+0.6 y=+2.2 z=+1.9
+
+pcl_intensity#=30649
+
+pcl#=7 t_id=0 x=+0.6 y=+2.4 z=+1.9
+
+pcl_inte
+Frame : 56908 
+TimeStamp:1658750429338
+FPS=10.20 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56909 
+TimeStamp:1658750429399
+FPS=9.99 
+
+Pcl_size: 20 
+
+pcl#=0 t_id=0 x=+0.5 y=+2.5 z=+1.8
+
+pcl_intensity#=17819
+
+pcl#=1 t_id=0 x=+0.5 y=+2.3 z=+1.8
+
+pcl_intensity#=15649
+
+pcl#=2 t_id=0 x=+0.7 y=+2.4 z=+1.6
+
+pcl_intensity#=13905
+
+pcl#=3 t_id=0 x=+0.7 y=+2.2 z=+1.6
+
+pcl_intensity#=14960
+
+pcl#=4 t_id=0 x=+0.5 y=+2.4 z=+2.0
+
+pcl_intensity#=12829
+
+pcl#=5 t_id=0 x=+0.5 y=+2.2 z=+2.0
+
+pcl_intensity#=12709
+
+pcl#=6 t_id=0 x=+0.7 y=+2.7 z=+2.0
+
+pcl_intensity#=11969
+
+pcl#=7 t_id=0 x=+0.6 y=+2.4 z=+1.9
+
+pcl_inte
+Frame : 56912 
+TimeStamp:1658750429760
+FPS=9.92 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=16599
+
+pcl#=1 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=23200
+
+pcl#=2 t_id=2 x=+0.0 y=+0.2 z=+1.1
+
+pcl_intensity#=12628
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=16896
+
+pcl#=4 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=21878
+
+pcl#=5 t_id=2 x=+0.1 y=+0.1 z=+1.1
+
+pcl_intensity#=11890
+
+pcl#=6 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=11241
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_inte
+Frame : 56915 
+TimeStamp:1658750430044
+FPS=10.07 
+
+Pcl_size: 19 
+
+pcl#=0 t_id=0 x=+0.3 y=+2.5 z=+1.6
+
+pcl_intensity#=4434
+
+pcl#=1 t_id=0 x=+0.5 y=+2.5 z=+1.4
+
+pcl_intensity#=5140
+
+pcl#=2 t_id=0 x=+0.5 y=+2.3 z=+1.4
+
+pcl_intensity#=4165
+
+pcl#=3 t_id=0 x=+0.4 y=+2.5 z=+1.7
+
+pcl_intensity#=4353
+
+pcl#=4 t_id=0 x=+0.4 y=+2.3 z=+1.7
+
+pcl_intensity#=5164
+
+pcl#=5 t_id=0 x=+0.6 y=+2.5 z=+1.5
+
+pcl_intensity#=5293
+
+pcl#=6 t_id=0 x=+0.6 y=+2.3 z=+1.5
+
+pcl_intensity#=6033
+
+pcl#=7 t_id=0 x=+0.7 y=+2.4 z=+1.6
+
+pcl_intensity#
+Frame : 56919 
+TimeStamp:1658750430355
+FPS=10.00 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56920 
+TimeStamp:1658750430423
+FPS=10.12 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=13381
+
+pcl#=1 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=19376
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=24428
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=30368
+
+pcl#=4 t_id=2 x=+0.0 y=+0.2 z=+1.1
+
+pcl_intensity#=15138
+
+pcl#=5 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=13308
+
+pcl#=6 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_i
+Frame : 56922 
+TimeStamp:1658750430744
+FPS=9.95 
+
+Pcl_size: 16 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.1 z=+1.0
+
+pcl_intensity#=13951
+
+pcl#=1 t_id=2 x=+0.2 y=+0.3 z=+0.9
+
+pcl_intensity#=13729
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.9
+
+pcl_intensity#=14672
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=13258
+
+pcl#=4 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=13952
+
+pcl#=5 t_id=2 x=+0.1 y=+0.1 z=+1.1
+
+pcl_intensity#=14014
+
+pcl#=6 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=29754
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_inte
+Frame : 56925 
+TimeStamp:1658750431261
+FPS=9.96 
+
+Pcl_size: 35 
+
+pcl#=0 t_id=0 x=+1.0 y=+2.1 z=+1.9
+
+pcl_intensity#=21221
+
+pcl#=1 t_id=0 x=+1.1 y=+2.3 z=+1.9
+
+pcl_intensity#=18512
+
+pcl#=2 t_id=0 x=+0.7 y=+2.1 z=+2.2
+
+pcl_intensity#=14724
+
+pcl#=3 t_id=0 x=+0.7 y=+2.3 z=+2.2
+
+pcl_intensity#=14020
+
+pcl#=4 t_id=0 x=+1.0 y=+2.1 z=+1.7
+
+pcl_intensity#=14900
+
+pcl#=5 t_id=2 x=+0.0 y=+0.4 z=+0.7
+
+pcl_intensity#=8224
+
+pcl#=6 t_id=0 x=+0.8 y=+1.9 z=+1.8
+
+pcl_intensity#=16813
+
+pcl#=7 t_id=0 x=+0.9 y=+2.1 z=+1.8
+
+pcl_inten
+Frame : 56928 
+TimeStamp:1658750431636
+FPS=9.97 
+
+Pcl_size: 50 
+
+pcl#=0 t_id=0 x=+0.3 y=+2.5 z=+1.8
+
+pcl_intensity#=8920
+
+pcl#=1 t_id=0 x=+0.2 y=+2.2 z=+2.1
+
+pcl_intensity#=8155
+
+pcl#=2 t_id=0 x=+0.5 y=+2.5 z=+1.8
+
+pcl_intensity#=9251
+
+pcl#=3 t_id=0 x=+0.5 y=+2.3 z=+1.8
+
+pcl_intensity#=12245
+
+pcl#=4 t_id=0 x=+0.7 y=+2.4 z=+1.6
+
+pcl_intensity#=13505
+
+pcl#=5 t_id=0 x=+0.7 y=+2.2 z=+1.6
+
+pcl_intensity#=19176
+
+pcl#=6 t_id=0 x=+0.6 y=+2.0 z=+1.6
+
+pcl_intensity#=9937
+
+pcl#=7 t_id=0 x=+0.8 y=+2.4 z=+1.5
+
+pcl_intensit
+
+pcl_intensity#=14122
+
+pcl#=35 t_id=0 x=+0.6 y=+2.3 z=+1.5
+
+pcl_intensity#=11812
+
+endOfFrame
+
+
+Frame : 56931 
+TimeStamp:1658750432171
+FPS=10.07 
+
+Pcl_size: 49 
+
+pcl#=0 t_id=2 x=+0.2 y=+0.4 z=+0.9
+
+pcl_intensity#=15323
+
+pcl#=1 t_id=2 x=+0.2 y=+0.5 z=+0.7
+
+pcl_intensity#=13756
+
+pcl#=2 t_id=2 x=+0.2 y=+0.1 z=+0.8
+
+pcl_intensity#=16543
+
+pcl#=3 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=16395
+
+pcl#=4 t_id=2 x=+0.2 y=+0.3 z=+0.7
+
+pcl_intensity#=15843
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=15119
+
+pcl#=6 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=14608
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_int
+FPS=10.21 
+
+Pcl_size: 13 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.1 z=+0.6
+
+pcl_intensity#=20495
+
+pcl#=1 t_id=2 x=+0.0 y=+0.1 z=+0.8
+
+pcl_intensity#=19742
+
+pcl#=2 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=17699
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=31797
+
+pcl#=4 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=22069
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=28437
+
+pcl#=6 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=23370
+
+pcl#=7 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=16705
+
+pcl#=8 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=32995
+
+pcl#=9 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=29482
+
+pcl#=10 t_id=2 x=+0.0 y=+0.4 z=+0.9
+
+pcl_intensity#=17925
+
+pcl#=11 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=19549
+
+pcl#=12 t_id=2 x=+0.0 y=+0.4 z=+0.7
+
+pcl_intensity#=20485
+
+endOfFrame
+
+
+Frame : 56935 
+TimeStamp:1658750432943
+FPS=10.00 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.1 z=+0.8
+
+pcl_intensity#=15456
+
+pcl#=1 t_id=2 x=+0.0 y=+0.4 z=+0.7
+
+pcl_intensity#=17397
+
+pcl#=2 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=22409
+
+pcl#=3 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=22694
+
+pcl#=4 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=27930
+
+pcl#=5 t_id=2 x=+0.0 y=+0.5 z=+0.7
+
+pcl_intensity#=13689
+
+pcl#=6 t_id=2 x=+0.0 y=+0.4 z=+0.9
+
+pcl_intensity#=14604
+
+pcl#=7 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_int
+Frame : 56943 
+TimeStamp:1658750433296
+FPS=10.13 
+
+Pcl_size: 37 
+
+pcl#=0 t_id=0 x=+0.2 y=+2.3 z=+1.7
+
+pcl_intensity#=11405
+
+pcl#=1 t_id=0 x=+0.3 y=+2.3 z=+1.6
+
+pcl_intensity#=12156
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+1.0
+
+pcl_intensity#=15873
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=13429
+
+pcl#=4 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=24692
+
+pcl#=5 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=19673
+
+pcl#=6 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=16568
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_int
+Frame : 56946 
+TimeStamp:1658750433627
+FPS=10.23 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56947 
+TimeStamp:1658750433702
+FPS=9.99 
+
+Pcl_size: 14 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.3 z=+0.6
+
+pcl_intensity#=4781
+
+pcl#=1 t_id=2 x=+0.0 y=+0.2 z=+0.8
+
+pcl_intensity#=6985
+
+pcl#=2 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=4764
+
+pcl#=3 t_id=2 x=+0.0 y=+0.4 z=+0.9
+
+pcl_intensity#=4694
+
+pcl#=4 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=7863
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=11518
+
+pcl#=6 t_id=2 x=+0.0 y=+0.2 z=+1.1
+
+pcl_intensi
+Frame : 56950 
+TimeStamp:1658750433985
+FPS=10.05 
+
+Pcl_size: 12 
+
+pcl#=0 t_id=0 x=+0.7 y=+1.7 z=+0.1
+
+pcl_intensity#=3767
+
+pcl#=1 t_id=0 x=+0.6 y=+1.5 z=+0.2
+
+pcl_intensity#=4744
+
+pcl#=2 t_id=0 x=+0.6 y=+1.8 z=+0.5
+
+pcl_intensity#=3123
+
+pcl#=3 t_id=0 x=+0.8 y=+1.9 z=+0.3
+
+pcl_intensity#=4047
+
+pcl#=4 t_id=0 x=+0.7 y=+1.7 z=+0.5
+
+pcl_intensity#=4131
+
+pcl#=5 t_id=0 x=+0.9 y=+1.8 z=+0.2
+
+pcl_intensity#=6351
+
+pcl#=6 t_id=0 x=+0.8 y=+1.6 z=+0.4
+
+pcl_intensity#=7627
+
+pcl#=7 t_id=0 x=+0.7 y=+1.4 z=+0.5
+
+pcl_intensity#
+Frame : 56955 
+TimeStamp:1658750434364
+FPS=10.10 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.4 z=+0.7
+
+pcl_intensity#=3398
+
+pcl#=1 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=3841
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=5638
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=5615
+
+pcl#=4 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=3999
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=3019
+
+pcl#=6 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=3950
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=2954
+
+pcl#=8 t_
+Frame : 56959 
+TimeStamp:1658750434673
+FPS=9.93 
+
+Pcl_size: 13 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.5 z=+0.7
+
+pcl_intensity#=5066
+
+pcl#=1 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=4463
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=6053
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=5361
+
+pcl#=4 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=7695
+
+pcl#=5 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=7250
+
+pcl#=6 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=4053
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=
+Frame : 56963 
+TimeStamp:1658750434991
+FPS=10.18 
+
+Pcl_size: 12 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=14729
+
+pcl#=1 t_id=2 x=+0.2 y=+0.3 z=+0.4
+
+pcl_intensity#=9758
+
+pcl#=2 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intensity#=23387
+
+pcl#=3 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=20545
+
+pcl#=4 t_id=2 x=+0.2 y=+0.3 z=+0.7
+
+pcl_intensity#=21092
+
+pcl#=5 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=20291
+
+pcl#=6 t_id=2 x=+0.3 y=+0.1 z=+0.4
+
+pcl_intensity#=9417
+
+pcl#=7 t_id=2 x=+0.3 y=+0.1 z=+0.6
+
+pcl_inten
+Frame : 56967 
+TimeStamp:1658750435287
+FPS=9.99 
+
+Pcl_size: 20 
+
+pcl#=0 t_id=2 x=+0.2 y=+0.3 z=+0.9
+
+pcl_intensity#=6269
+
+pcl#=1 t_id=2 x=+0.3 y=+0.4 z=+0.7
+
+pcl_intensity#=6856
+
+pcl#=2 t_id=2 x=+0.1 y=+0.2 z=+1.1
+
+pcl_intensity#=8463
+
+pcl#=3 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=15397
+
+pcl#=4 t_id=2 x=+0.2 y=+0.3 z=+0.7
+
+pcl_intensity#=11175
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=11716
+
+pcl#=6 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=7960
+
+pcl#=7 t_id=2 x=+0.1 y=+0.1 z=+1.1
+
+pcl_intensit
+Frame : 56969 
+TimeStamp:1658750435600
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56970 
+TimeStamp:1658750435678
+FPS=10.12 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=7080
+
+pcl#=1 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=11646
+
+pcl#=2 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=11677
+
+pcl#=3 t_id=2 x=+0.1 y=+0.5 z=+0.7
+
+pcl_intensity#=8391
+
+pcl#=4 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=8304
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=6957
+
+pcl#=6 t_id=2 x=+0.2 y=+0.4 z=+0.4
+
+pcl_intensity#=7212
+
+pcl#=7 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensit
+Frame : 56973 
+TimeStamp:1658750436039
+FPS=9.99 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56974 
+TimeStamp:1658750436121
+FPS=10.19 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56975 
+TimeStamp:1658750436193
+FPS=10.06 
+
+Pcl_size: 12 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.1 z=+0.6
+
+pcl_intensity#=12170
+
+pcl#=1 t_id=2 x=+0.1 y=+0.1 z=+0.8
+
+pcl_intensity#=12262
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=14929
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=14956
+
+pcl#=4 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=22051
+
+pcl#=5 t_id=2 x=+0.2 y=+0.3 z=+0.7
+
+pcl_y=+0.2 z=+0.8
+
+pcl_intensity#=19757
+
+pcl#=11 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=19400
+
+endOfFrame
+
+
+Frame : 56977 
+TimeStamp:1658750436545
+FPS=10.08 
+
+Pcl_size: 37 
+
+pcl#=0 t_id=2 x=+0.2 y=+0.5 z=+0.7
+
+pcl_intensity#=13949
+
+pcl#=1 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=16718
+
+pcl#=2 t_id=2 x=+0.2 y=+0.3 z=+0.7
+
+pcl_intensity#=15404
+
+pcl#=3 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=33072
+
+pcl#=4 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intensity#=32771
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=22878
+
+pcl#=6 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=22976
+
+pcl#=7 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_int
+Frame : 56981 
+TimeStamp:1658750437035
+FPS=10.10 
+
+Pcl_size: 22 
+
+pcl#=0 t_id=2 x=+0.6 y=+0.5 z=+2.0
+
+pcl_intensity#=943
+
+pcl#=1 t_id=2 x=+0.4 y=+0.4 z=+1.9
+
+pcl_intensity#=1173
+
+pcl#=2 t_id=2 x=+0.5 y=+0.3 z=+1.9
+
+pcl_intensity#=769
+
+pcl#=3 t_id=2 x=+0.7 y=+0.4 z=+2.0
+
+pcl_intensity#=969
+
+pcl#=4 t_id=2 x=+0.5 y=+0.3 z=+1.9
+
+pcl_intensity#=1075
+
+pcl#=5 t_id=2 x=+0.6 y=+0.3 z=+2.2
+
+pcl_intensity#=775
+
+pcl#=6 t_id=2 x=+0.4 y=+0.2 z=+2.0
+
+pcl_intensity#=959
+
+pcl#=7 t_id=2 x=+0.7 y=+0.3 z=+2.1
+
+pcl_intensity#=1501
+Frame : 56984 
+TimeStamp:1658750437356
+FPS=10.18 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56985 
+TimeStamp:1658750437425
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56986 
+TimeStamp:1658750437495
+FPS=9.99 
+
+Pcl_size: 18 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.5 z=+0.7
+
+pcl_intensity#=17057
+
+pcl#=1 t_id=2 x=+0.0 y=+0.4 z=+0.9
+
+pcl_intensity#=15710
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=16503
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=16161
+
+pcl#=4 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=19827
+
+pcl#=5 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_
+Frame : 56988 
+TimeStamp:1658750437730
+FPS=10.19 
+
+Pcl_size: 12 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=12900
+
+pcl#=1 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=9295
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=12347
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=12617
+
+pcl#=4 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=11459
+
+pcl#=5 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intensity#=18044
+
+pcl#=6 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=22908
+
+pcl#=7 t_id=2 x=+0.1 y=+0.1 z=+1.1
+
+pcl_inte
+Frame : 56991 
+TimeStamp:1658750438051
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56992 
+TimeStamp:1658750438127
+FPS=10.00 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56993 
+TimeStamp:1658750438219
+FPS=10.06 
+
+Pcl_size: 26 
+
+pcl#=0 t_id=0 x=+0.2 y=+2.5 z=+2.1
+
+pcl_intensity#=5511
+
+pcl#=1 t_id=0 x=+0.2 y=+2.2 z=+2.1
+
+pcl_intensity#=5740
+
+pcl#=2 t_id=0 x=+0.2 y=+2.0 z=+2.0
+
+pcl_intensity#=5461
+
+pcl#=3 t_id=0 x=+0.2 y=+1.8 z=+2.0
+
+pcl_intensity#=6697
+
+pcl#=4 t_id=0 x=+0.1 y=+1.6 z=+1.9
+
+pcl_intensity#=5296
+
+pcl#=5 t_id=0 x=+0.3 y=+2.5 z=+2.0
+
+pcl_inte
+Frame : 56994 
+TimeStamp:1658750438492
+FPS=10.09 
+
+Pcl_size: 21 
+
+pcl#=0 t_id=0 x=+0.3 y=+2.3 z=+1.6
+
+pcl_intensity#=5510
+
+pcl#=1 t_id=0 x=+0.4 y=+2.3 z=+1.7
+
+pcl_intensity#=5932
+
+pcl#=2 t_id=0 x=+0.6 y=+2.5 z=+1.5
+
+pcl_intensity#=5626
+
+pcl#=3 t_id=0 x=+0.2 y=+2.5 z=+2.1
+
+pcl_intensity#=5448
+
+pcl#=4 t_id=0 x=+0.2 y=+2.2 z=+2.1
+
+pcl_intensity#=6222
+
+pcl#=5 t_id=0 x=+0.2 y=+2.0 z=+2.0
+
+pcl_intensity#=5825
+
+pcl#=6 t_id=0 x=+0.2 y=+1.8 z=+2.0
+
+pcl_intensity#=6060
+
+pcl#=7 t_id=0 x=+0.3 y=+2.5 z=+2.0
+
+pcl_intensity#
+Frame : 56997 
+TimeStamp:1658750438807
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56998 
+TimeStamp:1658750438877
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 56999 
+TimeStamp:1658750438947
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57000 
+TimeStamp:1658750439099
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57001 
+TimeStamp:1658750439175
+FPS=9.93 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57002 
+TimeStamp:1658750439242
+FPS=10.05 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57003 
+TimeStamp:1658750439311
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57004 
+TimeStamp:1658750439381
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57005 
+TimeStamp:1658750439461
+FPS=10.33 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57006 
+TimeStamp:1658750439533
+FPS=9.86 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57007 
+TimeStamp:1658750439612
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57008 
+TimeStamp:1658750439690
+FPS=9.99 
+
+Pcl_size: 14 
+
+pcl#=0 t_id=0 x=+0.1 y=+2.1 z=+1.4
+
+pcl_intensity#=12038
+
+pcl#=1 t_id=0 x=+0.1 y=+1.9 z=+1.4
+
+pcl_intensity#=18084
+
+pcl#=2 t_id=0 x=+0.2 y=+1.8 z=+1.3
+
+pcl_intensity#=14223
+
+pcl#=3 t_id=0 x=+0.1 y=+1.6 z=+1.4
+
+pcl_intensity#=12771
+
+pcl#=4 t_id=0 x=-0.2 y=+1.8 z=+1.6
+
+pcl_intensity#=12464
+
+pcl#=5 t_id=0 x=-0.2 y=+1.9 z=+1.5
+
+pcl_intensity#=15298
+
+pcl#=6 t_id=0 x=-0.1 y=+1.6 z=+1.5
+
+pcl_intensity#=11225
+
+pcl#=7 t_id=0 x=-0.1 y=+1.9 z=+1.4
+
+pcl_intensity#=13982
+
+pcl#=8 t_id=0 x=-0.2 y=+1.8 z=+1.7
+
+pcl_intensity#=14498
+
+pcl#=9 t_id=0 x=-0.1 y=+1.9 z=+1.6
+
+pcl_intensity#=20209
+
+pcl#=10 t_id=0 x=-0.1 y=+1.6 z=+1.6
+
+pcl_intensity#=15998
+
+pcl#=11 t_id=0 x=+0.0 y=+2.1 z=+1.5
+
+pcl_intensity#=13599
+
+pcl#=12 t_id=0 x=+0.0 y=+1.9 z=+1.5
+
+pcl_intensity#=23698
+
+pcl#=13 t_id=0 x=+0.0 y=+1.6 z=+1.5
+
+pcl_intensity#=16614
+
+endOfFrame
+
+
+Frame : 57009 
+TimeStamp:1658750440211
+FPS=10.13 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57010 
+TimeStamp:1658750440278
+FPS=10.00 
+
+Pcl_size: 28 
+
+pcl#=0 t_id=0 x=+0.9 y=+2.1 z=+2.0
+
+pcl_intensity#=19123
+
+pcl#=1 t_id=0 x=+1.0 y=+2.3 z=+2.0
+
+pcl_intensity#=13927
+
+pcl#=2 t_id=0 x=+0.8 y=+2.1 z=+2.1
+
+pcl_intensity#=15781
+
+pcl#=3 t_id=0 x=+0.3 y=+2.3 z=+1.6
+
+pcl_intensity#=13795
+
+pcl#=4 t_id=0 x=+0.5 y=+2.3 z=+1.4
+
+pcl_intensity#=14133
+
+pcl#=5 t_id=0 x=+0.4 y=+2.3 z=+1.7
+
+pcl_intensity#=15543
+
+pcl#=6 t_id=0 x=+1.0 y=+2.1 z=+1.7
+
+pcl_i
+Frame : 57014 
+TimeStamp:1658750440550
+FPS=10.06 
+
+Pcl_size: 15 
+
+pcl#=0 t_id=2 x=+0.0 y=+0.5 z=+0.7
+
+pcl_intensity#=14725
+
+pcl#=1 t_id=2 x=+0.0 y=+0.3 z=+0.9
+
+pcl_intensity#=14159
+
+pcl#=2 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=25233
+
+pcl#=3 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=22762
+
+pcl#=4 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=18307
+
+pcl#=5 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=17556
+
+pcl#=6 t_id=2 x=+0.2 y=+0.3 z=+0.4
+
+pcl_intensity#=12831
+
+pcl#=7 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_int
+Frame : 57018 
+TimeStamp:1658750440921
+FPS=10.12 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57019 
+TimeStamp:1658750440996
+FPS=10.06 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57020 
+TimeStamp:1658750441088
+FPS=9.99 
+
+Pcl_size: 0 
+
+endOfFrame
+
+
+Frame : 57021 
+TimeStamp:1658750441176
+FPS=10.06 
+
+Pcl_size: 32 
+
+pcl#=0 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=13679
+
+pcl#=1 t_id=2 x=+0.1 y=+0.3 z=+0.6
+
+pcl_intensity#=19933
+
+pcl#=2 t_id=2 x=+0.1 y=+0.2 z=+0.8
+
+pcl_intensity#=18004
+
+pcl#=3 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=19759
+
+pcl#=4 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=17847
+
+pcl#=5 t_id=2 x=+0.2 y=+0.4 z=+0.7
+
+pcl_intensity#=14475
+
+pcl#=6 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=13214
+
+pcl#=7 t_id=2 x=+0.2 y=+0.2 z=+0.6
+
+pcl_intid=0 x=+0.1 y=+1.6 z=+1.9
+
+pcl_intensity#=17659
+
+pcl#=24 t_id=0 x=+0.3 y=+2.5 z=+2.0
+
+pcl_intensity#=13423
+
+pcl#=25 t_id=0 x=+0.3 y=+2.3 z=+2.0
+
+pcl_intensity#=18477
+
+pcl#=26 t_id=0 x=+0.2 y=+1.8 z=+1.9
+
+pcl_intensity#=21407
+
+pcl#=27 t_id=0 x=+0.2 y=+1.6 z=+1.8
+
+pcl_intensity#=19515
+
+pcl#=28 t_id=0 x=+0.5 y=+2.5 z=+1.8
+
+pcl_intensity#=15674
+
+pcl#=29 t_id=0 x=+0.5 y=+2.3 z=+1.8
+
+pcl_intensity#=18745
+
+pcl#=30 t_id=0 x=+0.4 y=+1.8 z=+1.7
+
+pcl_intensity#=14738
+
+pcl#=31 t_id=0 x=+0.3 y=+1.6 z=+1.7
+
+pcl_intensity#=13291
+
+endOfFrame
+
+
+Frame : 57022 
+TimeStamp:1658750442012
+FPS=9.97 
+
+Pcl_size: 36 
+
+pcl#=0 t_id=0 x=+0.3 y=+2.3 z=+1.6
+
+pcl_intensity#=11423
+
+pcl#=1 t_id=0 x=+0.3 y=+2.5 z=+2.0
+
+pcl_intensity#=11868
+
+pcl#=2 t_id=0 x=+0.3 y=+2.3 z=+2.0
+
+pcl_intensity#=18169
+
+pcl#=3 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=16514
+
+pcl#=4 t_id=2 x=+0.3 y=+0.2 z=+0.7
+
+pcl_intensity#=18852
+
+pcl#=5 t_id=2 x=+0.2 y=+0.4 z=+0.9
+
+pcl_intensity#=15845
+
+pcl#=6 t_id=2 x=+0.2 y=+0.5 z=+0.7
+
+pcl_intensity#=18373
+
+pcl#=7 t_id=2 x=+0.1 y=+0.4 z=+1.0
+
+pcl_intel#=20 t_id=0 x=+0.4 y=+1.7 z=+2.2
+
+pcl_intensity#=14906
+
+pcl#=21 t_id=0 x=+0.1 y=+1.8 z=+1.9
+
+pcl_intensity#=15330
+
+pcl#=22 t_id=0 x=+0.1 y=+1.6 z=+1.8
+
+pcl_intensity#=14284
+
+pcl#=23 t_id=0 x=+0.3 y=+2.9 z=+2.3
+
+pcl_intensity#=18653
+
+pcl#=24 t_id=0 x=+0.2 y=+2.5 z=+2.1
+
+pcl_intensity#=29216
+
+pcl#=25 t_id=0 x=+0.2 y=+2.2 z=+2.1
+
+pcl_intensity#=31646
+
+pcl#=26 t_id=0 x=+0.2 y=+1.8 z=+2.0
+
+pcl_intensity#=31546
+
+pcl#=27 t_id=0 x=+0.1 y=+1.6 z=+1.9
+
+pcl_intensity#=27553
+
+pcl#=28 t_id=0 x=+0.4 y=+2.9 z=+2.1
+
+pcl_intensity#=15525
+
+pcl#=29 t_id=0 x=+0.3 y=+2.5 z=+2.0
+
+pcl_intensity#=23171
+
+pcl#=30 t_id=0 x=+0.3 y=+2.3 z=+2.0
+
+pcl_intensity#=31301
+
+pcl#=31 t_id=0 x=+0.2 y=+1.8 z=+1.9
+
+pcl_intensity#=30090
+
+pcl#=32 t_id=0 x=+0.2 y=+1.6 z=+1.8
+
+pcl_intensity#=30452
+
+pcl#=33 t_id=0 x=+0.5 y=+2.5 z=+1.8
+
+pcl_intensity#=18935
+
+pcl#=34 t_id=0 x=+0.5 y=+2.3 z=+1.8
+
+pcl_intensity#=23356
+
+pcl#=35 t_id=0 x=+0.4 y=+1.8 z=+1.7
+
+pcl_intensity#=22174
+
+pcl#=36 t_id=0 x=+0.3 y=+1.6 z=+1.7
+
+pcl_intensity#=20795
+
+pcl#=37 t_id=0 x=+0.4 y=+1.6 z=+1.8
+
+pcl_intensity#=15436
+
+pcl#=38 t_id=0 x=+0.5 y=+1.8 z=+1.8
+
+pcl_intensity#=15446
+
+pcl#=39 t_id=0 x=+0.3 y=+2.4 z=+2.2
+
+pcl_intensity#=23901
+
+pcl#=40 t_id=0 x=+0.3 y=+2.2 z=+2.2
+
+pcl_intensity#=17476
+
+pcl#=41 t_id=0 x=+0.3 y=+1.8 z=+2.0
+
+pcl_intensity#=15945
+
+pcl#=42 t_id=0 x=+0.4 y=+2.4 z=+2.1
+
+pcl_intensity#=13739
+
+pcl#=43 t_id=0 x=+0.2 y=+1.5 z=+2.0
+
+pcl_intensity#=18877
+
+pcl#=44 t_id=0 x=+0.2 y=+1.8 z=+2.0
+
+pcl_intensity#=26360
+
+endOfFrame
+
+
+Frame : 57030 
+TimeStamp:1658750443124
+FPS=10.02 
+
+Pcl_size: 47 
+
+pcl#=0 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=18307
+
+pcl#=1 t_id=2 x=+0.3 y=+0.2 z=+0.7
+
+pcl_intensity#=20470
+
+pcl#=2 t_id=2 x=+0.2 y=+0.4 z=+0.9
+
+pcl_intensity#=18215
+
+pcl#=3 t_id=2 x=+0.2 y=+0.5 z=+0.7
+
+pcl_intensity#=20166
+
+pcl#=4 t_id=2 x=+0.1 y=+0.4 z=+1.0
+
+pcl_intensity#=14634
+
+pcl#=5 t_id=2 x=+0.2 y=+0.5 z=+0.8
+
+pcl_intensity#=16754
+
+pcl#=6 t_id=2 x=+0.2 y=+0.2 z=+0.9
+
+pcl_intensity#=21501
+
+pcl#=7 t_id=2 x=+0.2 y=+0.3 z=+0.7
+
+pcl_int
+Frame : 57047 
+TimeStamp:1658750443501
+FPS=10.05 
+
+Pcl_size: 23 
+
+pcl#=0 t_id=0 x=+0.3 y=+2.3 z=+1.6
+
+pcl_intensity#=13839
+
+pcl#=1 t_id=0 x=+0.8 y=+2.2 z=+1.7
+
+pcl_intensity#=16768
+
+pcl#=2 t_id=0 x=+0.6 y=+2.2 z=+1.9
+
+pcl_intensity#=26512
+
+pcl#=3 t_id=0 x=+0.6 y=+2.4 z=+1.9
+
+pcl_intensity#=19234
+
+pcl#=4 t_id=0 x=+0.3 y=+1.8 z=+2.0
+
+pcl_intensity#=16053
+
+pcl#=5 t_id=0 x=+0.2 y=+1.8 z=+2.0
+
+pcl_intensity#=18879
+
+pcl#=6 t_id=0 x=+0.1 y=+2.3 z=+2.0
+
+pcl_intensity#=14240
+
+pcl#=7 t_id=0 x=+0.2 y=+2.5 z=+2.1
+
+pcl_int
+Frame : 57050 
+TimeStamp:1658750443861
+FPS=10.15 
+
+Pcl_size: 40 
+
+pcl#=0 t_id=0 x=-0.1 y=+1.9 z=+1.6
+
+pcl_intensity#=17192
+
+pcl#=1 t_id=0 x=-0.1 y=+1.6 z=+1.6
+
+pcl_intensity#=14955
+
+pcl#=2 t_id=0 x=+0.0 y=+1.9 z=+1.5
+
+pcl_intensity#=20162
+
+pcl#=3 t_id=0 x=+0.1 y=+1.8 z=+1.7
+
+pcl_intensity#=15949
+
+pcl#=4 t_id=0 x=+0.1 y=+1.6 z=+1.7
+
+pcl_intensity#=13776
+
+pcl#=5 t_id=0 x=+0.5 y=+2.0 z=+1.8
+
+pcl_intensity#=14824
+
+pcl#=6 t_id=0 x=+0.6 y=+2.2 z=+1.9
+
+pcl_intensity#=25799
+
+pcl#=7 t_id=0 x=+0.6 y=+2.4 z=+1.9
+
+pcl_int
+Frame : 57055 
+TimeStamp:1658750444160
+FPS=10.12 
+
+Pcl_size: 57 
+
+pcl#=0 t_id=0 x=+0.4 y=+1.7 z=+2.2
+
+pcl_intensity#=13653
+
+pcl#=1 t_id=0 x=+0.4 y=+2.2 z=+2.3
+
+pcl_intensity#=13375
+
+pcl#=2 t_id=2 x=+0.1 y=+0.4 z=+0.7
+
+pcl_intensity#=11619
+
+pcl#=3 t_id=2 x=+0.1 y=+0.3 z=+0.9
+
+pcl_intensity#=11781
+

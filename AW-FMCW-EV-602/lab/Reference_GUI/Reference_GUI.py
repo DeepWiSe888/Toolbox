@@ -9,8 +9,8 @@ def main(args):
     f = utils.monitor(args)
 
     def update(_):
-        nonlocal txt
-        nonlocal fig
+        # nonlocal txt
+        # nonlocal fig
         last_pcl = 0
         pcl_size, trk_size = 0, 0
         pcl_data = np.empty((0, 4), int)

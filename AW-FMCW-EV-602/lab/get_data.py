@@ -27,6 +27,12 @@ fileName = output +'.txt'
 def main():
     while True:
         rawdata = (ser.readline().decode('ascii'))
+        
+        if r'Frame :' in rawdata:
+            tsp = time.time()
+            tsp = str(int(round(tsp * 1000)))
+            rawdata = rawdata +'TimeStamp:'+ tsp
+            a =1
         print(rawdata)
         with open(fileName, 'a+') as f:
             f.write(rawdata)

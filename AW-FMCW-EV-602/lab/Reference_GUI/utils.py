@@ -71,7 +71,7 @@ def scatter(ax, scatter_name, data):
         
     else:
         ax[scatter_name] = ax["subplot"].scatter(data[:, 1], data[:, 2], c=clr, s=size)
-        print('1')
+    
 
 
 
